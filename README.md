@@ -1,6 +1,6 @@
 # The Furno - Furniture Website
 
-[![The Furno](https://github.com/sourrinn/the-furno/blob/main/the-furno-preview.png)](https://sourrinn.github.io/the-furno/)
+<!-- [![The Furno](https://github.com/sourrinn/the-furno/blob/main/the-furno-preview.png)](https://sourrinn.github.io/the-furno/) -->
 
 Welcome to The Furno, a stylish and modern furniture website built using HTML5, CSS3, and JavaScript. This website is designed to showcase a wide range of furniture products and provide an enjoyable browsing experience for furniture enthusiasts and potential customers.
 
